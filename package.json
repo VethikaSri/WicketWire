@@ -1,0 +1,15 @@
+{
+  "name": "wicketwire",
+  "version": "1.0.0",
+  "description": "",
+  "main": "WicketWire.js",
+  "scripts": {
+    "dev" :"npx tailwindcss -i ./tailwind.css -o ./dist/tailwind-output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.12"
+  }
+}
